@@ -5,8 +5,8 @@ namespace: dev
 
 images:
   - name: lucaliacr-microsoft.azurecr.io/azvote/azure-vote-front
-    newTag: c78ef5cb6e27bcd95cf671fd1df354ceb52faf10
+    newTag: b30774a7d3d080b4d7615570e59e58a1969de997
   - name: lucaliacr-microsoft.azurecr.io/azvote/azure-vote-back
-    newTag: c78ef5cb6e27bcd95cf671fd1df354ceb52faf10
+    newTag: b30774a7d3d080b4d7615570e59e58a1969de997
 resources:
   - manifests.yaml
