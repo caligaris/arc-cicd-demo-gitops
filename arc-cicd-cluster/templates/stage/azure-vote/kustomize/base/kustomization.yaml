@@ -5,8 +5,8 @@ namespace: stage
 
 images:
   - name: lucaliacr-microsoft.azurecr.io/azvote/azure-vote-front
-    newTag: b30774a7d3d080b4d7615570e59e58a1969de997
+    newTag: d390ae3bfbbc7df39778cc1d36af916c8b7b183c
   - name: lucaliacr-microsoft.azurecr.io/azvote/azure-vote-back
-    newTag: b30774a7d3d080b4d7615570e59e58a1969de997
+    newTag: d390ae3bfbbc7df39778cc1d36af916c8b7b183c
 resources:
   - manifests.yaml
